@@ -45,7 +45,8 @@ To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and t
 
 My favorite search engine is **[Duck Duck Go](https://duckduckgo.com)**.
 ## Tabs
-nen ,eltn lheujq ntrcn
+тут должен быть текст про таблицы, которого тут пока что нет, но скоро будет
+
 ## Quotes
 
 ## The End
