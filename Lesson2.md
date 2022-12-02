@@ -44,9 +44,12 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
 
 My favorite search engine is **[Duck Duck Go](https://duckduckgo.com)**.
+
 ## Tabs
 тут должен быть текст про таблицы, которого тут пока что нет, но скоро будет
+
 ## Quotes
+smth new to try
 
 ## The End
 
