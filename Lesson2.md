@@ -50,7 +50,9 @@ My favorite search engine is **[Duck Duck Go](https://duckduckgo.com)**.
 
 ## Quotes
 smth new to try
+
 this in online correction
+
 this in online correction vol2
 
 ## The End
