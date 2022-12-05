@@ -1,0 +1,15 @@
+C:\temp\C4\bin\Debug\net6.0\C4.exe
+C:\temp\C4\bin\Debug\net6.0\C4.deps.json
+C:\temp\C4\bin\Debug\net6.0\C4.runtimeconfig.json
+C:\temp\C4\bin\Debug\net6.0\C4.dll
+C:\temp\C4\bin\Debug\net6.0\C4.pdb
+C:\temp\C4\obj\Debug\net6.0\C4.csproj.AssemblyReference.cache
+C:\temp\C4\obj\Debug\net6.0\C4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\C4\obj\Debug\net6.0\C4.AssemblyInfoInputs.cache
+C:\temp\C4\obj\Debug\net6.0\C4.AssemblyInfo.cs
+C:\temp\C4\obj\Debug\net6.0\C4.csproj.CoreCompileInputs.cache
+C:\temp\C4\obj\Debug\net6.0\C4.dll
+C:\temp\C4\obj\Debug\net6.0\refint\C4.dll
+C:\temp\C4\obj\Debug\net6.0\C4.pdb
+C:\temp\C4\obj\Debug\net6.0\C4.genruntimeconfig.cache
+C:\temp\C4\obj\Debug\net6.0\ref\C4.dll
